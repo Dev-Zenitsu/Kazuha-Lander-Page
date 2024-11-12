@@ -23,7 +23,7 @@ Kaedehara Kazuha, a wandering samurai with a poetic soul, is known for his deep 
 ## Kazuha's Story
 A noble soul who values freedom above all, Kazuha’s journey through the world of Teyvat is as enigmatic as the wind itself. Read about his background, motivations, and his critical role in the Inazuma story arc.
 
-[Learn more about Kazuha's story here.](#)
+[Learn more about Kazuha's story here.]([#](https://dev-zenitsu.github.io/Legacy-of-the-Wandering-Samurai--Kazuha-Guide/))
 
 ---
 
@@ -40,18 +40,13 @@ Uncover the optimal artifact sets to boost Kazuha’s elemental mastery and Anem
 - **Best Set**: Viridescent Venerer
 - **Alternative Set**: Wanderer's Troupe
 
-### Team Compositions
-Find out which characters synergize best with Kazuha for optimal damage output and elemental reactions.
-
-- **Optimal Team**: Kazuha, Hu Tao, Xingqiu, Zhongli
-- **Alternative Team Comps**: [Read more](#)
-
+[Check out the build guide here.]([#](https://dev-zenitsu.github.io/Legacy-of-the-Wandering-Samurai--Kazuha-Guide/gameplay.html))
 ---
 
 ## Gallery
 A collection of in-game screenshots showcasing Kazuha’s aesthetic beauty, iconic moves, and breathtaking scenes in Teyvat.
 
-[Check out the gallery here.](#)
+[Check out the gallery here.]([#](https://dev-zenitsu.github.io/Legacy-of-the-Wandering-Samurai--Kazuha-Guide/gallery.html))
 
 ---
 
@@ -60,8 +55,8 @@ Feel free to contribute to this guide by suggesting improvements, submitting pul
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Remake
+This project is a remake of [@Shubhamium's Yoimiya Landing Page]([LICENSE](https://github.com/Shubamium/Yoimiya-Landing-Page)) .
 
 ---
 
