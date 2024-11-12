@@ -29,9 +29,8 @@ Feel free to contribute to this guide by suggesting improvements, submitting pul
 
 ---
 
-## Remake
-[@Shubham](https://github.com/Shubamium)
-<br>
+## Remake [@Shubham](https://github.com/Shubamium)
+
 Thank you for granting me the permission to recreate your work! 😊
 ---
 
