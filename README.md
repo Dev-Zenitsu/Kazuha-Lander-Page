@@ -1,6 +1,6 @@
 # Legacy-of-the-Wandering-Samurai--Kaedehara-Kazuha-Guide
 
-Welcome to **Wandering Samurai's Creed: Kazuha's Complete Guide**, an all-encompassing resource for mastering Kaedehara Kazuha from Genshin Impact. This guide covers everything from his lore and story to his optimal builds and a gallery of in-game aesthetics.
+Welcome to **Legacy of the Wandering Samurai: Kaedehara Kazuha's Complete Guide**, an all-encompassing resource for mastering Kaedehara Kazuha from Genshin Impact. This guide covers everything from his lore and story to his optimal builds and a gallery of in-game aesthetics.
 
 ## Table of Contents
 1. [Introduction](#introduction)
