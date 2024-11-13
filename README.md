@@ -10,7 +10,6 @@ Welcome to Legacy of the Wandering Samurai: Kaedehara Kazuha's Complete Guide, a
 ✦ **Gameplay Tips**: Discover advanced techniques and tips to enhance Kazuha's efficiency across various game modes and environments.
 <br>
 ✦ **Build Guides**: Find the best weapons, artifacts, and team compositions to maximize Kazuha’s potential in battle.    
-<br>
 ✦ **Gallery**: Enjoy a curated gallery of Kazuha’s most iconic moments and breathtaking visuals.
 
 ---
