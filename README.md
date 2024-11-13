@@ -5,9 +5,12 @@ Welcome to Legacy of the Wandering Samurai: Kaedehara Kazuha's Complete Guide, a
 ---
 
 ### Features:
-✦ **Kazuha's Story**: Explore the rich lore and background of Kazuha, his journey, and his connection to Inazuma. 
+✦ **Kazuha's Story**: Explore the rich lore and background of Kazuha, his journey, and his connection to Inazuma.
+<br>
 ✦ **Gameplay Tips**: Discover advanced techniques and tips to enhance Kazuha's efficiency across various game modes and environments.
+<br>
 ✦ **Build Guides**: Find the best weapons, artifacts, and team compositions to maximize Kazuha’s potential in battle.    
+<br>
 ✦ **Gallery**: Enjoy a curated gallery of Kazuha’s most iconic moments and breathtaking visuals.
 
 ---
