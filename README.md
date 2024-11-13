@@ -1,6 +1,7 @@
 # Legacy-of-the-Wandering-Samurai--Kaedehara-Kazuha-Guide
 <br>
 Welcome to Legacy of the Wandering Samurai: Kaedehara Kazuha's Complete Guide, an all-encompassing resource for mastering Kaedehara Kazuha from Genshin Impact. This guide covers everything from his lore and story to his optimal builds and a gallery of in-game aesthetics.
+
 ---
 
 ### Features:
